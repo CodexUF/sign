@@ -44,6 +44,9 @@ npm install
 Run the application  
 click on port 5000  
 
+## Preview   
+<img width="817" height="632" alt="image" src="https://github.com/user-attachments/assets/04c236c2-9bea-4950-9498-003982369399" />
+
 
 ## 🔐 Why Signing is Important
 
@@ -61,6 +64,7 @@ Contributions are welcome.
 ## 📜 License
 
 This project is licensed under the MIT License.  
+
 
 
 
